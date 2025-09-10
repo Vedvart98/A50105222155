@@ -1,0 +1,4 @@
+{
+    "logID": "c6c3e702-a2fc-4703-b9c3-7bc0ce7424e3",
+    "message": "log created successfully"
+}
